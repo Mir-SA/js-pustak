@@ -1,8 +1,8 @@
 import { Dispatch } from "redux"
-import { Action } from "../state/actions"
-import { ActionType } from "../state/action-types"
-import { saveCells } from "../state/action-creators"
-import { RootState } from "../state"
+import { Action } from "../actions"
+import { ActionType } from "../action-types"
+import { saveCells } from "../action-creators"
+import { RootState } from "../reducers"
 
 export const persist = ({
     dispatch, getState

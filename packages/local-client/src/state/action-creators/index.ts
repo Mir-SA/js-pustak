@@ -10,7 +10,7 @@ import {
 } from "../actions";
 import { Cell, CellTypes } from '../cell'
 import bundle from '../../bundler'
-import { RootState } from "..";
+import { RootState } from "../reducers";
 
 export const moveCell = (id: string, direction: 'up' | 'down'): MoveCellAction => {
     return {
