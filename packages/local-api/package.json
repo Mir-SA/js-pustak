@@ -1,6 +1,6 @@
 {
    "name": "@js-pustak/local-api",
-   "version": "1.1.1",
+   "version": "1.1.2",
    "description": "",
    "files": [
       "dist"
@@ -23,7 +23,7 @@
       "typescript": "^4.5.4"
    },
    "dependencies": {
-      "@js-pustak/local-client": "^1.1.1",
+      "@js-pustak/local-client": "^1.1.2",
       "express": "^4.17.2",
       "http-proxy-middleware": "^2.0.1"
    },
