@@ -13,8 +13,8 @@ Install this package with command
 <pre> 
 serve  < fileName (optional: default 'notebook.js') >  	Serves the client build
 
--p, --port [optional] < portNum (default 4000) > 		Port number to serve the client from
+-p, --port [optional] < portNum (default 4000) > 	Port number to serve the client from
 
--h, --help  											Display help for command
+-h, --help  						Display help for command
 </pre>
 
